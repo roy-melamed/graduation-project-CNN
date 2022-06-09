@@ -1,0 +1,15 @@
+
+Score per fold
+> Fold 1 - False Positive: 15.83 - Accuracy: 91.36%
+> Fold 2 - False Positive: 15.25 - Accuracy: 91.92%
+> Fold 3 - False Positive: 15.84 - Accuracy: 91.53%
+> Fold 4 - False Positive: 16.27 - Accuracy: 91.13%
+> Fold 5 - False Positive: 14.75 - Accuracy: 91.09%
+> Fold 6 - False Positive: 17.11 - Accuracy: 91.84%
+> Fold 7 - False Positive: 17.27 - Accuracy: 91.39%
+> Fold 8 - False Positive: 17.42 - Accuracy: 90.35%
+> Fold 9 - False Positive: 13.98 - Accuracy: 90.81%
+> Fold 10 - False Positive: 19.56 - Accuracy: 90.84%
+Average scores for all folds:
+> Accuracy: 91.22600000000001 (+- 0.45967814827333403)
+> False Positive: 16.328
